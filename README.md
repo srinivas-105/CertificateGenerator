@@ -553,5 +553,4 @@ The following are possible improvements and are not implemented in this version:
 ## Limitations
 
 The current version uses local filesystem storage and FastAPI background tasks. If the process stops while a job is being processed, in-flight work is not automatically resumed. This is a deliberate trade-off for a small, locally runnable assignment.
-#   C e r t i f i c a t e G e n e r a t o r  
- 
+#
